@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![Image text](https://raw.githubusercontent.com/Coldvvater/Coldvvater/master/img-folder/zdst.jpg)
+                                ![Image text](https://raw.githubusercontent.com/Coldvvater/Coldvvater/master/img-folder/zdst.jpg)
 
 <p align="center">
   <a href="https://github.com/Coldvvater"><img src="https://github-readme-stats.vercel.app/api?username=Coldvvater&hide_border=true&show_icons=true" alt="Coldvvater's github stats"></a>
