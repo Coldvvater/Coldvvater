@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Ison_Channel)
 [![](https://img.shields.io/github/followers/Coldvvater?label=follow&style=social)](https://github.com/Coldvvater)
 
-<!-- blog_plugin_start -->
-
-<!-- blog_plugin_end -->
-
-<!-- github_plugin_start -->
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ![Coldvvater's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Coldvvater)
