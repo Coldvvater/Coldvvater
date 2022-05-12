@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/Ison_Channel)
 
-<p align="center">
-  <a href="https://github.com/Coldvvater"><img src="https://github-readme-stats.vercel.app/api?username=Coldvvater&hide_border=true&show_icons=true" alt="Coldvvater's github stats"></a>
-</p>
+![Coldvvater's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Coldvvater)
