@@ -1,6 +1,6 @@
 <div align=center>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Coldvvater" /></p>
+![Coldvvater's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Coldvvater)
 
 </div>
 
