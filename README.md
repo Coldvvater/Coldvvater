@@ -8,7 +8,6 @@
 
 <div align=center>
 
-# 访问量
 ![](http://profile-counter.glitch.me/Coldvvater/count.svg)
 
 </div>
